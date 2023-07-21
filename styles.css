@@ -1,0 +1,15 @@
+img{
+   
+    height: 300px;
+    width: 440px;
+}
+
+#image1{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+body{
+    background-color: rgb(251, 255, 226);
+}
